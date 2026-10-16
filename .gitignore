@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/d2c_followup.db
+.DS_Store
